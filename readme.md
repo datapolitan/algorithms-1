@@ -206,8 +206,8 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 + ["Netflix knows exactly how long you’ll look for something to watch before giving up" Quartz](http://qz.com/622316/netflix-knows-exactly-how-long-youll-look-for-something-to-watch-before-giving-up/)
 
 ###### Homework
-1. Implement the sorting algorithm you came up with in pseudocode with Python. Test the sorting algorithm with a list of 10, 100, 1000 random numbers and compare the result using the [`%time`](https://ipython.org/ipython-doc/3/interactive/magics.html# magic-time) to time your code and submit your results in [code comments](http://www.pythonforbeginners.com/comments/comments-in-python)
-2. Implement the search algorithm you came up with in pseudocode with Python. Test the search algorithm with a list of 10,100,1000 random numbers (sorted with your sorting algorithm) and compare the result using the [`%time`](https://ipython.org/ipython-doc/3/interactive/magics.html# magic-time) to time your code and submit your results in [code comments](http://www.pythonforbeginners.com/comments/comments-in-python)
+1. Implement the sorting algorithm you came up with in pseudocode with Python. Test the sorting algorithm with a list of 10, 100, 1000 random numbers and compare the result using the [`%time`](https://ipython.org/ipython-doc/3/interactive/magics.html#magic-time) to time your code and submit your results in [code comments](http://www.pythonforbeginners.com/comments/comments-in-python)
+2. Implement the search algorithm you came up with in pseudocode with Python. Test the search algorithm with a list of 10,100,1000 random numbers (sorted with your sorting algorithm) and compare the result using the [`%time`](https://ipython.org/ipython-doc/3/interactive/magics.html#magic-time) to time your code and submit your results in [code comments](http://www.pythonforbeginners.com/comments/comments-in-python)
 
 
 <a id="class4"></a>
