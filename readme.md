@@ -156,7 +156,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 #### Week 1: Introduction to Algorithms/Python Review
 
 <a id="class1"></a>
-##### [Class 1: Overview of algorithms and data structures in Python](class1)
+##### [Class 1: Overview of algorithms and data structures in Python](class1/index.html)
 
 ###### Topics
 + Course policies and expectations
