@@ -302,7 +302,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 #### Week 5: Supervised Learning - Random Forest and Naive Bayes
 
 <a id="class9"></a>
-##### Class 9: Trees, Trees, and More Trees
+##### [Class 9: Trees, Trees, and More Trees](class9/index.html)
 
 ###### Topics
 + Ensemble Methods
@@ -316,7 +316,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 + _TBA_
 
 <a id="class10"></a>
-##### Class 10: Bayes Theorem
+##### [Class 10: Bayes Theorem](class10/index.html)
 
 ###### Topics
 + Conditional probabilities
