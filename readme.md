@@ -176,7 +176,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 5. React to today's class in a short paragraph and email it to [me](mailto:rad2184[at]columbia[dot]edu?subject=Assignment5). Include what you learned today and what topics you look forward to in the class. Include any additional information you feel I should know about yourself and your experience in this program so far
 
 <a id="class2"></a>
-##### Class 2: Python data structures and control statements
+##### [Class 2: Python data structures and control statements](class2/index.html)
 
 ###### Topics
 + Git in detail
@@ -192,7 +192,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 #### Week 2: Analysis of Algorithms/Introduction to Statistics
 
 <a id="class3"></a>
-##### Class 3: Branching in Github/Analysis of Algorithms
+##### [Class 3: Branching in Github/Analysis of Algorithms](class3/index.html)
 
 ###### Topics
 + Branching with Git
@@ -211,7 +211,7 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 
 
 <a id="class4"></a>
-##### Class 4: Statistics Review
+##### [Class 4: Statistics Review](class4/index.html)
 
 ###### Topics
 + Descriptive statistics
@@ -228,32 +228,56 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 3. Using the `heights_weights_genders.csv`, analyze the difference between the height weight correlation in women and men.
 
 
-#### Week 3: Supervised Learning - Linear Regression and Decision Trees
+#### Week 3: Supervised Learning - Linear Regression
 
 
 <a id="class5"></a>
-##### Class 5: Linear Regression
+##### [Class 5: Linear Regression Part 1](class5/index.html)
 
 ###### Topics
++ Measures of Central Tendancy
 + Coefficient of determination
 + Statistical significance
 + Linear regression
 
 ###### Readings
-+ _TBA_
++ [Not Even Scientists Can Easily Explain P-values](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/), FiveThirtyEight.com
++ [Scientific Studies](https://youtu.be/0Rnq1NpHdmw), Last Week Tonight with John Oliver
 
 ###### Homework
-+ _TBA_
+1. Use the data from `heights_weights_genders.csv` to create a simple predictor that takes in a person's height and guesses their weight based on a model using all the data, regardless of gender. To do this, find the parameters (`lm.params`) and use those in your function (i.e. don't generate a model each time)
+2. Create two models for the relationship between height and weight based on gender. Modify the code in Assignment 1 to ask for a person's gender as well as their height to produce an estimate of a person's weight using the models you created. Find the weights and use those in your function (i.e. don't generate a model each time)
+3. Using the data from the `2013_NYC_CD_MedianIncome_Recycle.xlsx` file, create a predictor using the weights from the model. This time, use the built in attributes in your model rather than hard-coding them into your algorithm
+4. Using data from [this FiveThirtyEight post](http://53eig.ht/1e2aV6U), write code to calculate the correlation of the responses from the poll. Respond to the story in your PR. Is this a good example of data journalism? Why or why not?
 
 
 <a id="class6"></a>
-##### Class 6: Decision Trees
+##### [Class 6: Linear Regression Part 2](class6/index.html)
+
+###### Topics
++ Null hypothesis
++ p-value
++ Multiple Linear Regression
++ Logistic Regression
+
+###### Readings
++ Sarah Ryley,[NYPD Nuisance Abatement Actions Boot Hundreds](http://interactive.nydailynews.com/2016/02/nypd-nuisance-abatement-actions-boot-hundreds/), New York Daily News, February 5, 2016
+
+###### Homework
++ None
+
+
+#### Week 4: Supervised Learning - Decision Trees
+
+<a id="class7"></a>
+##### [Class 7: Teaching the Machines to Learn](class7/index.html)
 
 ###### Topics
 + Introduction to Machine Learning
 + Decision trees
 + Training, test, and validation
 + Supervised Learning
++ Feature engineering
 
 ###### Readings
 + _TBA_
@@ -261,14 +285,10 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 ###### Homework
 + _TBA_
 
-
-#### Week 4: Supervised Learning - Random Forest and Naive Bayes
-
-<a id="class7"></a>
-##### Class 7:
+<a id="class8"></a>
+##### [Class 8: Decision Trees](class8/index.html)
 
 ###### Topics
-+ Feature engineering
 + Cross validation
 + Boosting
 + Bagging
@@ -279,26 +299,14 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 ###### Homework
 + _TBA_
 
-<a id="class8"></a>
-##### Class 8: Naive Bayes
-
-###### Topics
-+ Conditional probabilities
-+ Naive Bayes 
-
-###### Readings
-+ _TBA_
-
-###### Homework
-+ _TBA_
-
-#### Week 5: Supervised Learning - Random Forests, kNN, and Neural Networks
+#### Week 5: Supervised Learning - Random Forest and Naive Bayes
 
 <a id="class9"></a>
-##### Class 9: Random Forest and Ensemble Methods
+##### Class 9: Trees, Trees, and More Trees
 
 ###### Topics
 + Ensemble Methods
++ Cross-Validation
 + Random Forests
 
 ###### Readings
@@ -308,12 +316,11 @@ Steiner, Christopher. <i>Automate This: How Algorithms Came to Rule Our World</i
 + _TBA_
 
 <a id="class10"></a>
-##### Class 10: kNN and Neural Networks
+##### Class 10: Bayes Theorem
 
 ###### Topics
-+ Calculating distance
-+ k-Nearest Neighbor (kNN)
-+ Neural Networks
++ Conditional probabilities
++ Naive Bayes 
 
 ###### Readings
 + _TBA_
